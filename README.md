@@ -1,6 +1,6 @@
 # ConverterApp
 
-ConverterApp is a simple command-line application written in Zig that converts between different units of measurement. This project includes functions to convert miles to kilometers, kilometers to miles, Fahrenheit to Celsius, and Celsius to Fahrenheit.
+ConverterApp is a simple command-line application written in Zig written to help me familiarize myself with the language. The application converts between different units of measurement: miles to kilometers, kilometers to miles, Fahrenheit to Celsius, and Celsius to Fahrenheit.
 
 ## Running and Using the Project
 
